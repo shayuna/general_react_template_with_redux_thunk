@@ -1,0 +1,13 @@
+@import '../styles/vars';
+
+.app :global {
+    .page-content {
+        padding-top: 100px;
+        text-align: center;
+    }
+}
+
+.mymy {
+    color:red;
+    border:1px solid red;
+}
